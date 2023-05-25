@@ -1,0 +1,3 @@
+1. установите python 3.11.2 https://www.python.org/
+2. ОТкройте консолб разраба или cmd и впишите pip install pygame
+3. запустите файл game.py
